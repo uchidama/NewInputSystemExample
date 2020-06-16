@@ -18,8 +18,5 @@ Unityの新しいInput Systemを使ってみたサンプル。
 # 必要要件
 - Unity 2019.3.13f1 or later
 
-# ライセンス
-[MIT license](https://en.wikipedia.org/wiki/MIT_License).  
-まぁ、ライセンスとか言い出すようなもんか？  
-ってレベルの簡単サンプルだけどw
-一応、書いときます。
+# License
+[Unlicense](https://unlicense.org/)
